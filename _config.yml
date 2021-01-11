@@ -22,7 +22,7 @@ defaults:
       is_post: true
 
 topics:
-  - name: Web design
+  - name: Test
 
   - name: CSS
     github_name: css
