@@ -23,7 +23,7 @@ defaults:
 
 topics:
   - name: Consulting Capacity
-    image_url:
+    image_url: https://github.com/taoge64/taoge64.github.io/blob/design/img/consulting.png
 
   - name: Python
     github_name: css
