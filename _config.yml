@@ -22,12 +22,12 @@ defaults:
       is_post: true
 
 topics:
-  - name: Consulting Capacity
-    image_url: https://github.com/taoge64/taoge64.github.io/blob/design/img/consulting.png
+  - name: Consulting
+    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/consulting.png
 
   - name: Python
-    github_name: css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    github_name: python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Sass
     github_name: sass
