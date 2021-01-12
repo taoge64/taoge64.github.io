@@ -28,15 +28,15 @@ topics:
     
   - name: Business
     image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/business.png
-
-  - name: Big Data Application
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/blockchain.png
-        
+            
   - name: Data Analytics
     image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/bigdata.png
 
   - name: Artificial Intelligence
     image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/ai.png
+
+  - name: Big Data Application
+    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/blockchain.png
     
   - name: Block Chain
     image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/blockchain.png
