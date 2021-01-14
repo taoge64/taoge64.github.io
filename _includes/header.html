@@ -21,17 +21,18 @@
 	<link rel="stylesheet" href="css/w3.css">
   </head>
   <body class="bg-gray-light" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
-  <!-- Navbar (sit on top) -->
-	<div class="w3-top">
+
+ <!-- Navbar (sit on top) -->
+<div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" class="w3-left w3-bar-item w3-button"> <img src="images/Logo.png" style="width:15%" alt="Tao's logo"> </a>
+    <a href="#home" class="w3-bar-item w3-button w3-wide"><img src="images/Logo.png" style="width:15%" alt="Tao's picture"></a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
-      <a href="http://taogetan.com/index.html" class="w3-bar-item w3-button"><i class="fa fa-blog" aria-hidden="true"></i>Blog</a>
+      <a href="http://taogetan.com/index.html" class="w3-bar-item w3-button"><i class="fa fas fa-blog" aria-hidden="true"></i>Blog</a>
       <a href="http://taogetan.com/aboutMe.html" class="w3-bar-item w3-button"><i class="fa fa-user" aria-hidden="true"></i> AboutMe</a>
       <a href="https://taoge64.github.io" class="w3-bar-item w3-button"><i class="fa fa-th"aria-hidden="true"></i> Project</a>
       <a href="http://taogetan.com/photo.html" class="w3-bar-item w3-button"><i class="fa fa-picture-o" aria-hidden="true"></i> Photo</a>
-      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-weixin" aria-hidden="true"></i> Contact</a>
+      <a href="http://taogetan.com/contact.html" class="w3-bar-item w3-button"><i class="fa fa-weixin" aria-hidden="true"></i> Contact</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -40,7 +41,7 @@
     </a>
   </div>
 </div>
-
+  
 <!-- Sidebar on small screens when clicking the menu icon -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
@@ -48,5 +49,6 @@
   <a href="http://taogetan.com/aboutMe.html" onclick="w3_close()" class="w3-bar-item w3-button">AboutMe</a>
   <a href="https://taoge64.github.io" onclick="w3_close()" class="w3-bar-item w3-button">Project</a>
   <a href="http://taogetan.com/photo.html" onclick="w3_close()" class="w3-bar-item w3-button">Photo</a>
-  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">Contact</a>
+  <a href="http://taogetan.com/contact.html" onclick="w3_close()" class="w3-bar-item w3-button">Contact</a>
 </nav>
+
