@@ -22,24 +22,16 @@ defaults:
       is_post: true
 
 topics:
-  - name: Consulting
-    #github_name: sass
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/consulting.png
+  - name: Data Science
     
-  - name: Business
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/business.png
+  - name: Deep Learning
             
-  - name: Data Analytics
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/bigdata.png
+  - name: Recommendation System 
 
-  - name: Artificial Intelligence
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/ai.png
+  - name: Natural Language Processing
 
-  - name: Big Data Application
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/cloud.png
+  - name: Big Data Analysis and Data Engineering
     
-  - name: Block Chain
-    image_url: https://github.com/taoge64/taoge64.github.io/raw/design/img/blockchain.png
-
+  - name: Fraud Detection and Churn Detection
 
 
